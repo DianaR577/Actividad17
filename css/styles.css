@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@300;400;500;600;700&display=swap');   
+
+* {font-family: 'Dosis', sans-serif;
+}
+ 
+.bg-adso {
+    background: #738581;
+}
+
+#nosotros {
+    width: 100%;
+    position: relative;
+    padding: 150px 0;
+}
+
+#nosotros h2 {
+    color: #41bba0;
+    font-size: 40px;
+    text-align: center;
+}
+
+#servicios{
+    padding: 30px 0 100px;
+    width: 100%;
+    position: relative;
+}
+
+
+.card-servicios {
+    border: 1px solid #808080;
+    max-width: 320px;
+    margin: 10px auto;
+    padding: 0;
+    border-radius: 10px;
+}
+
+.card-servicios img{
+    border-radius: 10px 10px 0 0;
+}
+
+.card-servicios h3{
+    padding: 10px;
+    color: #41bba0;
+}
+
+.card-servicios p{
+    padding: 10px;
+}
+
+#preguntas {
+    padding: 10px 0 100px;
+    width: 100%;
+    position: relative;
+}
+
+#preguntas #titulo{
+    padding-bottom: 30px;
+}
+
+footer{
+background: #738581;    
+}
+
+.card-logo img{
+padding-top: 10px;
+width: 300px;
+height: 200px;
+display: block;
+margin: 0 auto;
+}
+
+.card-redes img{
+    padding: 50px;
+    }
+
+div .card-copyrigth p{
+    padding: 20px;
+    text-align: center;
+}
+
